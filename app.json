@@ -1,12 +1,12 @@
 {
-  "name": "Devil File Sharing Bot",
+  "name": "Jack File Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/rakeshyt/DevilFilesStore",
+  "repository": "https://github.com/Engtion5652/DevilFilesStore",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
